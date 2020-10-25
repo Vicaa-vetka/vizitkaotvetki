@@ -93,7 +93,7 @@ font:1.2em 'Trebuchet MS', Arial, Helvetica, sans-serif;
 #footer{
 background:url(img/bottom.jpg) center no-repeat;
 height:50px;
-margin-top:-16px !important;
+margin-top:-16px ;
 margin-top:0px;
 }
 
